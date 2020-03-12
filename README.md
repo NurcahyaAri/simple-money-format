@@ -9,8 +9,11 @@ Clone or download repo and add simple.money.format.js to your project.
 
 ## Usage
 
+    to generate number to money format using
+    $(".money").moneyFormat();
 
-    $('.money').simpleMoneyFormat();
+    to generate money format to number using
+    $(".money").moneyFormat("val");
     
 
 ## License
